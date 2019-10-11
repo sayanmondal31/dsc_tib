@@ -1,4 +1,5 @@
 # dsc_tib
+[![Codemagic build status](https://api.codemagic.io/apps/5da030af7338b0000e3d0e5d/5da030af7338b0000e3d0e5c/status_badge.svg)](https://codemagic.io/apps/5da030af7338b0000e3d0e5d/5da030af7338b0000e3d0e5c/latest_build)
 
 <img src=https://user-images.githubusercontent.com/43213197/60588496-bb168480-9db4-11e9-9bcd-ea40d4a36c2e.png width = 30%>
 <img src=https://user-images.githubusercontent.com/43213197/60588516-c79add00-9db4-11e9-9c81-935f75899cbe.png width = 30%>
